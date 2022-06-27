@@ -1,0 +1,5 @@
+* @natewh
+*.js @natewh
+*.yaml @natewh
+*.yml @natewh
+/public/ @natewh
